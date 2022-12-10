@@ -10,6 +10,12 @@ Express Js
 React Js
 Node Js
 
+#Pulic APIS we used 
+
+TMDB_BASE_URL = 'https://api.themoviedb.org/3';
+TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p';
+TMDB_BACKDROP_BASE_URL = 'https://image.tm.org/t/p/original';
+API_KEY = '8a9f6e472443b99e4c1db17d69a9fa3f'
 Features of the application
 ---The users can sign up and get access to the application
 ---The users can stream movies on the platform by loginning through their accounts
