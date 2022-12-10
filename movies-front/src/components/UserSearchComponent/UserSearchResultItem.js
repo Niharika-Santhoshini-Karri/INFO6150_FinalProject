@@ -10,10 +10,10 @@ export const UserSearchResultItem = ({searchResult}) => {
                     </div>
                     <div className="col">
                         <div className="card-block">
-                            <h6 className="card-title m-4 black-title">{searchResult.username}</h6>
+                            <h6 className="card-title m-4 black-title" style={{ color: 'white' }}>{searchResult.username}</h6>
                         </div>
                         <div className="card-body">
-                            <p className="black-title">{searchResult.type.toUpperCase()}</p>
+                            <p className="black-title" style={{ color: 'white' }}>{searchResult.type.toUpperCase()}</p>
                         </div>
                     </div>
                 </div>
